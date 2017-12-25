@@ -9,6 +9,6 @@ def display_board(board)
   puts "#{board[6]}|#{board[7]}|#{board[8]}"
 end
 display_board(board)
-
+board[4] = " X "
 board[0] = " O "
 display_board(board)
