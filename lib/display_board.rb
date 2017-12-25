@@ -11,4 +11,4 @@ end
 display_board(board)
 
 board[0] = " O "
-display_board
+display_board(board)
