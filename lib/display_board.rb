@@ -8,6 +8,7 @@ def display_board(rows)
   puts "-----------"
   puts "#{rows[6]}|#{rows[7]}|#{rows[8]}"
 end
+board = ["   ","   ","   ","   ","   ","   ","   ","   ","   "]
 display_board(board)
 board = [" O ","   ","   ","   ","   ","   ","   ","   ","   "]
 display_board(board)
