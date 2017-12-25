@@ -16,3 +16,4 @@ board[4] = "   "
 display_board(board)
 board[0] = " O "
 board[4] = " X "
+display_board(board)
